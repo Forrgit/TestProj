@@ -22,7 +22,5 @@ int main()
 		std::cout << var << " can't be divide to 2";
 	}
 
-	std::cout << "I have finished my homework!";
-
 	return 0;
 }
