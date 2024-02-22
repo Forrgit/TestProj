@@ -3,6 +3,10 @@
 
 int main()
 {
-	std::cout << "Hello world!";
+	int var = 0;
+	std::cout << "Hello world!" << var;
+
+	
+
 	return 0;
 }
