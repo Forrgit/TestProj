@@ -5,4 +5,5 @@
 struct NPC
 {
 	std::string Name;
+	int Health = 0;
 };
